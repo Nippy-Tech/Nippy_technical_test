@@ -1,19 +1,13 @@
-# Desafío de Evolución de Sistema 🚀
-Proyecto de Entrevista Técnica Fullstack Nippy
+# Prueba Técnica Fullstack Nippy 🚀
+
 
 ## 👋 ¡Bienvenido!
-Gracias por participar en nuestro proceso de entrevista técnica. 
+Hola, Felicitaciones por haber llegado hasta esta etapa del proceso.
 Este desafío está diseñado para evaluar habilidades de resolución de problemas del mundo real, 
-pensamiento sistémico y capacidades de implementación práctica.
+pensamiento sistémico, pensamiento critico y capacidades de implementación práctica.
 
 ## 🎯 Descripción General
-Trabajarás con un sistema de comercio electrónico a pequeña escala que necesita evolucionar para manejar el crecimiento. El sistema está construido con Angular (Frontend) y NestJS + MongoDB (Backend).
-
-### Capacidades del Sistema Actual
-- Gestión básica de catálogo de productos
-- Funcionalidad básica de búsqueda
-- Caché en memoria
-- Almacenamiento de datos basado en MongoDB
+Tenemos que incrementar la facturación de varios comercios con los que tenemos partnerships. Para lograrlo, construiremos un marketplace que deberá evolucionar para manejar el desafio de crecimiento que se esta presentando. El sistema está construido con Angular (frontend) y NestJS + MongoDB (backend).
 
 ## 🎨 El Desafío
 El sistema necesita escalar para manejar:
