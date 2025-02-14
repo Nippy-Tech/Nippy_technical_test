@@ -37,10 +37,10 @@ El sistema necesita escalar para manejar:
   - Optimización de búsqueda
   - Modelado de datos
   - Rendimiento de API
-  - Implicaciones de costos
 
 ### 3. Implementación
 - Elegir un área clave para implementar mejoras
 - Proporcionar código funcional
 - Incluir pruebas
 - Documentar tus cambios
+- 
