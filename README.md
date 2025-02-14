@@ -37,4 +37,3 @@ El sistema necesita escalar para manejar:
 - Proporcionar código funcional
 - Incluir pruebas
 - Documentar tus cambios
-- 
